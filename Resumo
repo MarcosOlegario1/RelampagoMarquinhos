@@ -1,0 +1,5 @@
+Criado repositório Git e sincronizado com o pacote do NetBeans.
+Colocado ó códgio do ava e separado o código de negócio e separado em outra classe.
+Feito os testes unitarios em outra classe.
+Feito commit do resumo sobre complexidade ciclomática.
+Criado e sincronizado a conta com o Travis-CI e atribuído o código para testes.
